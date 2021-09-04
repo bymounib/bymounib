@@ -26,7 +26,7 @@
 <img width="40" height="40" alt="firebase" src="./icons/firebase-plain.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
 <img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
- <a href="#"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" alt="Java" width="40" height="40"/></a>
+ <a href="#"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" alt="Java" width="30" height="40"/></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/></a>
 
 
