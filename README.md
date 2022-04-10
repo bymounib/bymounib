@@ -3,7 +3,6 @@
     Hi, I'm Mounib! 👋 <br>
     🔥 24 Year's Old Software Developer grinding hard to make something cool  <br>
     :email:	bymounib1997@gmail.com <br>
-    :art: Portfolio: https://mounib-iben-yamna.netlify.app/ <br>
     :briefcase: LinkedIn: https://linkedin.com/in/bymounib <br>
   </samp>
 </p>
