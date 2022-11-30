@@ -7,7 +7,7 @@
 
 - 🔗 Portfolio: [https://mounib-ben-yamna.netlify.app/](https://mounib-ben-yamna.netlify.app/)
 
-- 💼 Linkedin [bymounib](linkedin.com/in/bymounib/)
+- 💼 Linkedin [bymounib](https://linkedin.com/in/bymounib/)
 
 - 📫 Email: bymounib@outlook.fr
 
